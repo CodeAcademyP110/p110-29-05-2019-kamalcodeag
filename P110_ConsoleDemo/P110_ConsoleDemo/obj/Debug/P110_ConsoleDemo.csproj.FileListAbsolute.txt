@@ -1,0 +1,19 @@
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csprojAssemblyReference.cache
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csproj.CoreCompileInputs.cache
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.exe.config
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.exe
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.pdb
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.exe
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.pdb
+C:\Users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\PrimaryClasses.dll
+C:\Users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\PrimaryClasses.pdb
+C:\Users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csproj.CopyComplete
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csprojAssemblyReference.cache
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csproj.CoreCompileInputs.cache
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.exe
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.pdb
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.exe.config
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.exe
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.pdb
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\PrimaryClasses.pdb
+D:\Programming\Other\C#\29.05.2019(Enum,struct,generics,nullable types)\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csproj.CopyComplete
